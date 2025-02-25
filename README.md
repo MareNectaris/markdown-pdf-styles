@@ -1,6 +1,6 @@
 # Markdown PDF Styles
 
-![VSCode Markdown PDF logo.](https://github.com/yzane/vscode-markdown-pdf/raw/master/images/icon.png)
+![The project logo.](https://github.com/hanggrian/markdown-pdf-styles/raw/assets/logo.png)
 
 Stylesheets for [VSCode Markdown PDF](https://github.com/yzane/vscode-markdown-pdf/).
 
